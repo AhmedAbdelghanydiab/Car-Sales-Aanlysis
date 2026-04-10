@@ -40,7 +40,7 @@ The dashboard provides clear insights into:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](your-image-link-here)
+![Dashboard Screenshot](Car Sales.png)
 
 ---
 
